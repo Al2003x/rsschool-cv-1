@@ -65,7 +65,6 @@ function toggleFullScreen() {
 }
 
 openFullScreen.addEventListener("click", () => toggleFullScreen());
-
 ```
 ### Language:
 
