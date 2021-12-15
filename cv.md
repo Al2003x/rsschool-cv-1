@@ -25,7 +25,7 @@ No work experience at the moment
 * Figma
 
 ### Code example:
-```javascript (project: virtual-piano)
+```
 const piano = document.querySelector(".piano");
 const pianoKeys = document.querySelectorAll(".piano-key");
 const openFullScreen = document.querySelector(".openfullscreen");
